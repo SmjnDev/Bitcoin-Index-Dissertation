@@ -1,0 +1,24 @@
+References
+GlobalData. (2023) “Bitcoin’s Market Capitalization History (2013 – 2023, $ Billion)”. Available at: https://www.globaldata.com/data-insights/financial-services/bitcoins-market-capitalization-history/ (Accessed 27 February 2023).
+Howarth, J. (2023) “How Many People Own Bitcoin? Blockchain Statistics (2023)”. Available at: https://explodingtopics.com/blog/blockchain-stats (Accessed 27 February 2023).
+Reiff, N (2022) “What Was The First Cryptocurrency?”. Available at: https://www.investopedia.com/tech/were-there-cryptocurrencies-bitcoin/ (Accessed 27 February 2023).
+TripleA. (2023) “How many crypto owners are in the United Kingdom?”. Available at: https://triple-a.io/crypto-ownership-united-kingdom-2022/  (Accessed 27 February 2023).
+Bank of England. (2023) “The digital pound: A new form of money for households and businesses?”. Available at: https://www.bankofengland.co.uk/paper/2023/the-digital-pound-consultation-paper (Accessed 27 February 2023).
+Gogol, F. (2022) “Study: 94% of Crypto Buyers are Gen Z/Millennial, but Gen X is Outspending Them”. Available at: https://www.stilt.com/blog/2021/03/vast-majority-crypto-buyers-millennials-gen-z/ (Accessed 27 February 2023). 
+Statistics Canada. (2018) “Financial indicators from the National Balance Sheet Accounts: Update”. Available at: https://www150.statcan.gc.ca/n1/pub/13-605-x/2012004/article/11730-eng.htm (Accessed 27 February 2023).
+Kenton, W. (2022) “S&P 500 Index: What It’s for and Why It’s Important in Investing”. Available at: https://www.investopedia.com/terms/s/sp500.asp (Accessed 27 February 2023).
+Alternative. (2023) “Crypto Fear & Greed Index”. Available at: https://alternative.me/crypto/fear-and-greed-index/ (Accessed 27 February 2023).
+Hayes, A. (2022) “Capitalization-Weighted Index: Definition, Calculation, Example”. Available at: https://www.investopedia.com/terms/c/capitalizationweightedindex.asp (Accessed 27 February 2023).
+CNN. (2023) “Fear & Greed Index”. Available at: https://edition.cnn.com/markets/fear-and-greed  (Accessed 27 February 2023).
+Duggan, W. (2022) “What Does HODL Mean?”. Available at: https://www.forbes.com/advisor/investing/cryptocurrency/what-does-hodl-mean/ (Accessed 27 February 2023).
+TradingView (2023) “Bitcoin / British Pound”. Available at: https://www.tradingview.com/symbols/BTCGBP/ (Accessed 27 February 2023).
+Huang, J.Z., Huang, W. and Ni, J. (2019) “Predicting bitcoin returns using high-dimensional technical indicators”, The Journal of Finance and Data Science, 5(3), pp. 140-155. Available at: https://www.sciencedirect.com/science/article/pii/S2405918818300928 (Accessed 27 February 2023).
+Constantinides, G. (1979) “A Note on the Suboptimality of Dollar-Cost Averaging as an Investment Policy”, Journal of Financial and Quantitative Analysis, 14(2), pp. 443-450. Available at: https://www.cambridge.org/core/journals/journal-of-financial-and-quantitative-analysis/article/abs/note-on-the-suboptimality-of-dollarcost-averaging-as-an-investment-policy/0C483B96429655B24F34FB628CF9CEEB (Accessed 27 February 2023).
+Value Line. (2023) “The Value Line Ranking System”. Available at: https://www.valuelinepro.com/value-line-ranking-system (Accessed 27 February 2023).
+Zhang, Y., Nguyen, G.X. and Steven, L.V. (2010) “Yes, The Value Line Enigma Is Still Alive: Evidence from Online Timeliness Rank Changes”, The Financial Review, 45, pp. 255-373.
+Peterson, D.R. (1987) “Security price reactions to initial reviews of common stock by the Value Line Investment Survey”, Journal of Financial and Quantitative Analysis, 22, pp. 483–494.
+Peterson, D.R. (1995) “The informative role of the Value Line Investment Survey: Evidence from stock highlights “, Journal of Financial and Quantitative Analysis, 30, pp. 607–618.
+Public. (2023) “HODL: A typo that became a crypto investing strategy”. Available at: https://public.com/learn/hodl-meaning (Accessed 27 February 2023).
+Meynkhard, A. (2019) “Fair market value of bitcoin: halving event”, Investment Management and Financial Innovations. Available at: https://www.semanticscholar.org/paper/Fair-market-value-of-bitcoin%3A-halving-effect-Meynkhard/7ef96c7d884506a884d080c20c8d43b7151125fe#citing-papers (Accessed 27 February 2023).
+Luci, F. and Bernaschi, M. (2022) “Algorithmic Trading Systems in Blockchain Era”. Available at: http://tesi.luiss.it/33745/ (Accessed 27 February 2023).
+BitcoinDollarCostAverage (2023) “Bitcoin Dollar Cost Average”. Available at: https://www.bitcoindollarcostaverage.com/ (Accessed 27 February 2023).
